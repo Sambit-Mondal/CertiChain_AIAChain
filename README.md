@@ -46,7 +46,7 @@ npm install
 1. Create a `.env` file in the root of the project and add your contract address:
     plaintext
     ```bash
-    REACT_APP_CONTRACT_ADDRESS=<Your_Contract_Address>
+    REACT_APP_CONTRACT_ADDRESS=0xf31289312EF573a8a419Ae0f66fa5435Fd24a190
     ```
 
 2. Start the development server:
@@ -112,32 +112,6 @@ CertiChain is a blockchain-based platform designed to bring transparency and sec
 - **Verification Mechanism**: Verify the authenticity of offer letters using cryptographic hashes.
 - **User-Friendly Interface**: Simple and intuitive interface for creating and managing offer letters.
 
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/Home-Page.png)
-
-
-### Create Offer Letter
-![Create Offer Letters](screenshots/Create-Offer-Letter.png)
-
-
-### Get Offer Letter
-![Get Offer Letter](screenshots/Get-Offer-Letter.png)
-
-
-### Verify Offer Letter
-![Verify Offer Letter](screenshots/Verify-Offer-Letter.png)
 
 ## License
 This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
-
-
-<!-- ### Explanation
-- *Features*: Describes the main functionalities of the CertiChain platform.
-- *Prerequisites*: Lists the required software and tools to run the project.
-- *Installation*: Provides steps to clone the repository and install dependencies.
-- *Running the Application*: Instructions to start the React application and deploy the smart contract.
-- *Technologies Used*: Lists the technologies and libraries used in the project.
-- *Brief About CertiChain*: Provides an overview of the platform and its main features.
-- *Screenshots*: Placeholder for screenshots to visually describe the application (you need to add actual screenshots in the screenshots folder). -->
