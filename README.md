@@ -2,7 +2,7 @@
 
 CertiChain is a decentralized platform for creating and managing offer letters using blockchain technology. The platform leverages Ethereum smart contracts to ensure the authenticity and integrity of the offer letters. CertiChain provides a seamless interface for employers to create offer letters and for candidates to verify them.
 
-### Deployment Link: https://certichain-gray.vercel.app/
+### Deployment Link: https://certi-chain.vercel.app/
 
 ## Table of Contents
 - [Features](#features)
