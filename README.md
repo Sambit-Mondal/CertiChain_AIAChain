@@ -13,9 +13,10 @@ CertiChain is a decentralized platform for creating and managing offer letters u
 - [Technologies Used](#technologies-used)
 
 ## Features
-- **Decentralized Offer Letter Creation**: Create immutable and tamper-proof offer letters stored on the Ethereum blockchain.
-- **Verification of Offer Letters**: Verify the authenticity of offer letters using the offer hash.
-- **Unique URLs**: Each offer letter is assigned a unique URL for easy reference.
+- **Secure and Immutable Offer Letters**: Store offer letters on the blockchain to prevent any tampering or unauthorized modifications.
+- **Unique Identification**: Each offer letter is assigned a unique ID and URL for easy access and verification.
+- **Verification Mechanism**: Verify the authenticity of offer letters using cryptographic hashes.
+- **User-Friendly Interface**: Simple and intuitive interface for creating and managing offer letters.
 
 ## Prerequisites
 - Node.js and npm
@@ -101,17 +102,8 @@ The application will be available at `http://localhost:3000`.
 - **Truffle**: Development environment and testing framework for Ethereum.
 - **Ganache**: Personal blockchain for Ethereum development.
 - **Vercel**: Hosting platform for deploying the application.
-- **Avalanche**: Blockchain deployment on a global blockchain network
-
-## Brief About CertiChain
-CertiChain is a blockchain-based platform designed to bring transparency and security to the process of issuing and verifying offer letters. By leveraging the immutability of blockchain technology, CertiChain ensures that offer letters cannot be tampered with, providing both employers and candidates with a secure and trustworthy solution for employment offers.
-
-### Main Features
-- **Secure and Immutable Offer Letters**: Store offer letters on the blockchain to prevent any tampering or unauthorized modifications.
-- **Unique Identification**: Each offer letter is assigned a unique ID and URL for easy access and verification.
-- **Verification Mechanism**: Verify the authenticity of offer letters using cryptographic hashes.
-- **User-Friendly Interface**: Simple and intuitive interface for creating and managing offer letters.
+- **AIA Chain**: Blockchain deployment on a global blockchain network
 
 
 ## License
-This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
